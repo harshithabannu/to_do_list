@@ -91,11 +91,6 @@ When you run the application, you can:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-
-- **Name:** Harshitha Talapala
-- **Email:** harshitha@example.com
-- **GitHub:** [Harshitha's GitHub](https://github.com/yourusername)
 
 ## Acknowledgments
 
